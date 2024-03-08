@@ -1,0 +1,7 @@
+include
+lib-vc2022
+.vs
+*.vcxproj*
+x64
+*.sln
+*.gch
